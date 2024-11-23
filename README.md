@@ -1,7 +1,7 @@
 ## How It Works:
-# Data Preprocessing:
-# Combines the title and authors to create a unified content field.
-# Embedding Generation:
+####### Data Preprocessing:
+ Combines the title and authors to create a unified content field.
+##### Embedding Generation:
 # Uses the SentenceTransformer model to generate embeddings for the book content.
 # Similarity Calculation:
 # Computes pairwise cosine similarity between book embeddings to find related books.
